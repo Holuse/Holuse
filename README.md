@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Mehmet
 
-<!--
-**Holuse/Holuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **1st year Computer Engineering student**  
+💻 Currently learning **C++** and **Python**  
+🔐 Interested in **Cybersecurity** and its various fields  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm working on:
+- Improving problem solving with **C++**  
+- Writing small projects in **Python**  
+- Exploring the fundamentals of **Cybersecurity**  
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmet&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+---
+
+### ✨ Fun fact
+I’m a bit clumsy 🤦‍♂️ but always curious about learning new things 🚀
+
+---
+⭐️ From [Mehmet](https://github.com/USERNAME)
