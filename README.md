@@ -15,7 +15,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,github,vscode" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ### ✨ Fun fact
-I’m a bit clumsy 🤦‍♂️ but always curious about learning new things 🚀
+I’m a bit clumsy, but always curious about learning new things 🚀
 
 ---
 ⭐️ From [Mehmet](https://github.com/USERNAME)
