@@ -20,14 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmet&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ### ✨ Fun fact
 I’m a bit clumsy, but always curious about learning new things 🚀
 
